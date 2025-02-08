@@ -1,0 +1,9 @@
+
+h = help		c = continue
+l = leave/don't want	i = inventory
+r = armory		w = weapon
+n = name		a = health and armor
+e = shows everything	q = exit programn
+
+It is not case sensitive!
+*In specific cases, numbers are also used, but at that time you will have noted down which serves for what.

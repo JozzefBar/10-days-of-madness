@@ -1,0 +1,18 @@
+   *name reaches the gates and knocks.
+--- Guard: (from behind the gate) Halt! Who goes there?
+--- *name : (exhausted) I'm a survivor... I've been traveling for days. I found a note that led me here. Please, let me in.
+--- Guard: (suspicious) Show me the note.
+   *name pulls out the crumpled piece of paper from their bag and holds it up. A hand reaches through the gate and takes it. The guard reads the note.
+--- Guard: (after reading) This note is old. Many have tried to find this place... few have succeeded. How do we know you're not infected?
+--- *name : (desperate) I'm not! I've been careful. Please, I need help.
+--- Guard: (stern) Wait here.
+   The guard disappears behind the gate, and the *name waits anxiously.
+   Sound of muffled conversation from behind the gate.
+   Guard returns.
+--- Guard: (through the gate) We have to be sure. You'll need to undergo a quarantine and testing before we can let you in. It's the only way to ensure the safety of everyone inside.
+--- *name : (relieved but cautious) I understand. I'll do whatever it takes.
+--- Guard: (opening the gate slightly) Alright, step inside, but keep your distance. Any sudden moves and you'll be dealt with accordingly.
+   The *name steps inside the gate, which then closes behind them with a loud clang. 
+   The *name is guided by the guard.
+--- Narrator: In the face of uncertainty, our survivor has found a glimmer of hope. The path ahead remains unclear, but for now, they is a chance. A chance to prove their worth, to survive, and perhaps, to start anew.
+   To be continued...
