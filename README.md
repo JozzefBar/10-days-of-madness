@@ -14,7 +14,7 @@
 - That is why there are only used basic **C functions and libraries**. **Story** is created with **ChatGPT** (There was no goal to make some great story telling, but just some simple story with start and end)
 
 ## Possible improvements
-- Things that planned to be done, but I didn't manage to do them: 
+Things that planned to be done, but I didn't manage to do them: 
 - Kill counter (for every kill - 1 score point), 
 - More applicable items + crafting + something like legendary items etc.,
 - Save/Load mechanics, 
