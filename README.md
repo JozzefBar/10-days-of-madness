@@ -1,4 +1,4 @@
-# 10 days of madness  (Very dramatic name for just letters in terminal lol)
+# 10 Days Of Madness (Very dramatic name for just letters in terminal lol)
 
 ## Basic info
 - Simple game with basic mechanics. Finding items, exploring buildings, trying to survive and killings zombies with story at the start and end. **Everything is only in basic console**, where you are writing inputs (some specific char or number).
